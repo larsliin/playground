@@ -2,7 +2,9 @@
   "name": "vue-imdb",
   "version": "1.0.0",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  },
   "devDependencies": {
     "autoprefixer": "^9.6.1",
     "browser-sync": "^2.26.7",
